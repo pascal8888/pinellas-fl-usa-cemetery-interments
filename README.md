@@ -18,5 +18,5 @@ The structure of each of the source tables is not consistent accross the lists. 
 **Surname** | **First_Name** | **Middle_Name_MI** | **Honorific** | **Suffix1** | **Suffix2** | **Born_Year** | **Born_Month** | **Born_Day** | **Died_Year** | **Died_Month** | **Died_Day** | **Inscription** | **Cemetery**
 
 For a data dictionary describing classes and definitions of each of these variables see codebook.md.
-######  Missing Data
-            There are a large number of records missing the born/died details of month & day.  The design should capitalize on the information when it is available and make it clear when calculations are made with or without that level of detail.  This can have a significant affect on some calculations so care must be exercised.
+###### Missing Data
+There are a large number of records missing the born/died details of month & day.  The design should capitalize on the information when it is available and make it clear when calculations are made with or without that level of detail.  This can have a significant affect on some calculations so care must be exercised.
