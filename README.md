@@ -22,3 +22,5 @@ The structure of each of the source tables is not consistent accross the lists. 
 [For a data dictionary describing classes and definitions of each of these variables see codebook.md.](https://github.com/pascal8888/pinellas-fl-usa-cemetery-interments/blob/master/codebook.md)
 ###### Missing Data
 There are a large number of records missing the born/died details of month & day.  The design should capitalize on the data when it is available and make it clear when calculations are made with or without that level of detail.  This can have a significant affect on some calculations so care must be exercised.
+###### Data Cleansing & Data Approach
+Major anamolies should be corrected to the degree that they can while maintaining data integrity.  They should be reviewed and signed-off by historians.  Descriptions of any corrections are to be captured in the codebook.md.  All source data is to remain pristine.  All steps used to cleanse data will be captured in R language scripts. Every step must be well documented and reproducible. Processes required to allow for the updating/refreshing of the data will be built into the design.
