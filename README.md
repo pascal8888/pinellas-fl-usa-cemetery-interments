@@ -1,7 +1,8 @@
 # Pinellas-FL-USA-Cemetery-Interments
-*A project to transform multiple disparate data collections about cemetary interments into a clean tidy data set optimized for analyzing geneological data.*
+*A project to transform multiple disparate data collections about cemetary interments into a clean tidy data set optimized for analyzing genealogical data.*
 ## Experimental Design
 The Pinellas Genealogical Society (PGS) has a set of text-based lists of interments of cemeteries in Pinellas county.  [They can be accessed here:](http://www.rootsweb.ancestry.com/~flpgs/pgs-cemetery-indexes.htm).
+The design will produce a data set optimized for genealogical research and analysis constructed from these data sources.
 ### Primary Objectives
 1. Provide comprehensive data set representing all interments in Pinellas County
 2. Provide dynamic, interactive web site to enable rich access to the data
